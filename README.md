@@ -68,6 +68,6 @@ Add your access token as an environment variable when running the script:
 ## References
 
 - Berserk docs: https://berserk.readthedocs.io/en/master/usage.html
-- Berser GitHub: https://github.com/rhgrant10/berserk
+- Berser GitHub: https://github.com/ZackClements/berserk
 - Lichess API docs: https://lichess.org/api
 
