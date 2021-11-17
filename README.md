@@ -1,4 +1,4 @@
-# chess_night
+# Chess Night
 
 Running Chess Night results tabulation:
 
