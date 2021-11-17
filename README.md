@@ -1,6 +1,39 @@
 # chess_night
 
-Running Chess Night results tabulation
+Running Chess Night results tabulation:
+
+```
+            __                            _       __    __
+      _____/ /_  ___  __________   ____  (_)___ _/ /_  / /_
+     / ___/ __ \/ _ \/ ___/ ___/  / __ \/ / __ `/ __ \/ __/
+    / /__/ / / /  __(__  |__  )  / / / / / /_/ / / / / /_
+    \___/_/ /_/\___/____/____/  /_/ /_/_/\__, /_/ /_/\__/
+                                        /____/
+
+Querying games between Superfloss and superross
+4 games
+Querying games between Superfloss and supermitch
+1 games
+Querying games between Superfloss and jollyra
+0 games
+Querying games between superross and supermitch
+1 games
+Querying games between superross and jollyra
+0 games
+Querying games between supermitch and jollyra
+0 games
+Found 6 total games
+
+Results:
+========
+
+Tony vs Mitch (10+5) - Winner: Mitch
+Ross vs Tony (10+5) - Winner: Tony
+Mitch vs Ross (10+5) - Winner: Mitch
+Tony vs Ross (5+3) - Winner: Tony
+Ross vs Tony (3+5) - Winner: Ross
+Ross vs Tony (3+1) - Winner: Tony
+```
 
 ## Setup
 
