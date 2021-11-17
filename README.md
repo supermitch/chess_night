@@ -30,6 +30,6 @@ pip install -r requirements.txt
 
 Add your access token as an environment variable when running the script:
 
-`LICHESS_TOKEN=asdf123 ./chess_night.py`
+`LICHESS_TOKEN=<api token> ./chess_night.py`
 
 
