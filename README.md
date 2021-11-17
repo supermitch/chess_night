@@ -65,4 +65,9 @@ Add your access token as an environment variable when running the script:
 
 `LICHESS_TOKEN=<api token> ./chess_night.py`
 
+## References
+
+- Berserk docs: https://berserk.readthedocs.io/en/master/usage.html
+- Berser GitHub: https://github.com/rhgrant10/berserk
+- Lichess API docs: https://lichess.org/api
 
